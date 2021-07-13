@@ -1,1 +1,1 @@
-web: gunicorn exemplo_bootsrap.wsgi
+web: gunicorn exemplo_bootstrap.wsgi
